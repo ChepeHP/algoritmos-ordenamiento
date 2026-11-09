@@ -1,0 +1,11 @@
+python=3.14.8
+implementation=CPython
+machine=x86_64
+system=Linux 7.2.10-arch1-1
+processor=
+sizes=[250, 500, 1000, 2000, 4000, 8000, 16000]
+repetitions=7
+count_sizes=[250, 500, 1000, 2000, 4000]
+count_repetitions=3
+seed=42
+total_seconds=424
