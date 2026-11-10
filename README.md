@@ -4,7 +4,7 @@ Aplicación de escritorio en Python que compara Bubble Sort y Quicksort con expe
 
 ## Instalación
 
-Se probó con Python 3.14.8, Matplotlib 3.11.2 y NumPy 2.5.4 en Linux. Tkinter viene con Python en la mayoría de instalaciones; en algunas distribuciones de Linux hay que instalarlo aparte, por ejemplo con `sudo apt install python3-tk`.
+Se probó con Python 3.14.8, Matplotlib 3.11.2 y NumPy 2.5.4 . Tkinter viene con Python en la mayoría de instalaciones; en algunas distribuciones de Linux hay que instalarlo aparte, por ejemplo con `sudo apt install python3-tk`.
 
 ```
 pip install -r requirements.txt
